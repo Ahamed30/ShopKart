@@ -1,0 +1,16 @@
+.btnBlack{
+background: transparent;
+text-transform: capitalize;
+font-size: 0.8rem !important;
+color: black;
+outline: none;
+border: 1px solid black !important;
+cursor: pointer;
+margin-left: 5px;
+}
+
+  .btnBlack:hover{
+    background: black !important;
+    color: white !important;
+  }
+  

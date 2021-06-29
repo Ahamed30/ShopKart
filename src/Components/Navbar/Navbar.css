@@ -1,0 +1,14 @@
+
+.default1{color : white;}
+
+.element3 {
+    color: white;
+    margin-left: 25px;
+    border: none;
+    background-color: inherit;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.element3:hover {color: #24A0ED;}
